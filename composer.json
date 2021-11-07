@@ -33,7 +33,7 @@
     },
     "extra": {
         "typo3/cms": {
-            "extension-key": "hellotypo3"
+            "extension-key": "walterkom-distribution"
         }
     }
 }
