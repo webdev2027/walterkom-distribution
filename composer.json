@@ -28,7 +28,7 @@
         }
     },
     "replace": {
-        "walterkom-distribution": "self.version",
+        "stsa/walterkom-distribution": "self.version",
         "typo3-ter/walterkom-distribution": "self.version"
     },
     "extra": {
