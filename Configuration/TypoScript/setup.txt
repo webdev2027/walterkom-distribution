@@ -1,0 +1,5 @@
+@import 'EXT:fluid_styled_content/Configuration/TypoScript/setup.typoscript'
+@import 'EXT:fluid_styled_content/Configuration/TypoScript/Styling/setup.typoscript'
+
+@import 'EXT:hellotypo3/Configuration/TypoScript/Setup/*.typoscript'
+@import 'EXT:hellotypo3/Configuration/TypoScript/Library/*.typoscript'

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3DataStructure>
+    <meta type="array">
+        <langDisable>1</langDisable>
+    </meta>
+    <sheets>
+        <general>
+            <ROOT type="array">
+                <TCEforms>
+                    <sheetTitle>LLL:EXT:hellotypo3/Resources/Private/Language/backend.xlf:gridelements.GridTwoColumns.flexforms.title</sheetTitle>
+                </TCEforms>
+                <el type="array">
+                    <columns type="array">
+                        <TCEforms type="array">
+                            <label>LLL:EXT:hellotypo3/Resources/Private/Language/backend.xlf:gridelements.GridTwoColumns.flexforms.label</label>
+                            <config type="array">
+                                <type>select</type>
+                                <items type="array">
+                                    <numIndex index="0" type="array">
+                                        <numIndex index="0">6:6</numIndex>
+                                        <numIndex index="1">66</numIndex>
+                                    </numIndex>
+                                    <numIndex index="1" type="array">
+                                        <numIndex index="0">8:4</numIndex>
+                                        <numIndex index="1">84</numIndex>
+                                    </numIndex>
+                                    <numIndex index="2" type="array">
+                                        <numIndex index="0">4:8</numIndex>
+                                        <numIndex index="1">48</numIndex>
+                                    </numIndex>
+                                    <numIndex index="3" type="array">
+                                        <numIndex index="0">7:5</numIndex>
+                                        <numIndex index="1">75</numIndex>
+                                    </numIndex>
+                                    <numIndex index="4" type="array">
+                                        <numIndex index="0">5:7</numIndex>
+                                        <numIndex index="1">57</numIndex>
+                                    </numIndex>
+                                </items>
+                            </config>
+                        </TCEforms>
+                    </columns>
+                </el>
+            </ROOT>
+        </general>
+    </sheets>
+</T3DataStructure>

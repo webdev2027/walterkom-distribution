@@ -1,0 +1,16 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers"
+      data-namespace-typo3-fluid="true">
+
+<f:if condition="{socialMenu}">
+    <div class="clearfix">
+
+            <f:for each="{socialMenu}" as="socialItem">
+
+                <f:render partial="Navigation/Elements/Link" arguments="{item: socialItem}"/>
+
+            </f:for>
+
+    </div>
+</f:if>
+
+</html>

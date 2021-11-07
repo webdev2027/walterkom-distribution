@@ -1,0 +1,15 @@
+RTE {
+
+    default.preset = custom
+
+    /*
+    config {
+        tt_content.bodytext {
+            preset = default
+            types.text.preset = minimal
+        }
+        tx_news_domain_model_news.bodytext.preset = myConfig
+    }
+    */
+
+}

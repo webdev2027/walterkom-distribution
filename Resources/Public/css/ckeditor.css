@@ -1,0 +1,31 @@
+* {
+    color: black;
+}
+
+a {
+    color: #1499de;
+    text-decoration: underline;
+}
+
+p.p-tiny {
+    font-size: 10px;
+}
+
+.btn {
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    border-radius: 2px;
+    cursor: pointer;
+    font-weight: 700 !important;
+    font-size: 0.75rem !important;
+    padding: 14px 30px 14px !important;
+    text-transform: uppercase;
+    vertical-align: middle;
+    letter-spacing: 0.05em;
+}
+
+.btn-primary {
+    background: #1499de;
+    color: #fff;
+}

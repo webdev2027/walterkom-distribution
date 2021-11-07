@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" product-name="hellotypo3" date="2015-04-27T10:11:30+02:00">
+		<header/>
+		<body>
+
+            <!-- ########## CONSTANTS ########## -->
+			<trans-unit id="constants.siteName">
+				<source>Name of Website</source>
+			</trans-unit>
+			<trans-unit id="constants.defaultDescription">
+				<source>Standard Meta Description</source>
+			</trans-unit>
+			<trans-unit id="constants.navFooter">
+				<source>Folder footer menu</source>
+			</trans-unit>
+			<trans-unit id="constants.navSocial">
+				<source>Folder social menu</source>
+			</trans-unit>
+
+
+            <!-- ########## BACKEND LAYOUTS ########## -->
+			<trans-unit id="backend_layout.default.title">
+				<source>[ hellotypo3 ] Default Template</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default.101">
+				<source>Page Content</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default.footer1">
+				<source>Footer outer left</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default.footer2">
+				<source>Footer left</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default.footer3">
+				<source>Footer right</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default.footer4">
+				<source>Footer outer right</source>
+			</trans-unit>
+
+
+			<trans-unit id="backend_layout.subpage.title">
+				<source>[ hellotypo3 ] Subpage Template</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.subpage.101">
+				<source>Page Content</source>
+			</trans-unit>
+
+
+
+
+
+
+            <!-- ########## GRIDELEMENTS : GridSection ########## -->
+			<trans-unit id="gridelements.GridSection.title">
+				<source>[ GRID ] Grid Section</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridSection.description">
+				<source>Grid-Section for Homepage Section and Anchor Menu</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridSection.column">
+				<source>Content</source>
+			</trans-unit>
+
+			<trans-unit id="gridelements.GridSection.flexforms.title">
+				<source>Options</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridSection.flexforms.paddingtop">
+				<source>Padding Top</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridSection.flexforms.paddingbottom">
+				<source>Padding Bottom</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridSection.flexforms.parallax">
+				<source>Parallax Effect</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridSection.flexforms.fullscreen">
+				<source>Fullscreen [ Only for Parallax! ]</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridSection.flexforms.parallaxoverlay">
+				<source>Image Overlay [ Only for Parallax! ]</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridSection.flexforms.backgroundparallax">
+				<source>Background Image [ Only for Parallax! ]</source>
+			</trans-unit>
+
+
+
+
+
+
+            <!-- ########## GRIDELEMENTS : GridContainer ########## -->
+			<trans-unit id="gridelements.GridContainer.title">
+				<source>[ GRID ] Grid Container</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridContainer.description">
+				<source>Grid-Container</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridContainer.column">
+				<source>Content</source>
+			</trans-unit>
+
+			<trans-unit id="gridelements.GridContainer.flexforms.title">
+				<source>Options</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridContainer.flexforms.paddingtop">
+				<source>Padding Top</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridContainer.flexforms.paddingbottom">
+				<source>Padding Bottom</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridContainer.flexforms.backgroundcolor">
+				<source>Background Colour</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridContainer.flexforms.colunwidth">
+				<source>Column Width</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridContainer.flexforms.alignment">
+				<source>Alignment</source>
+			</trans-unit>
+
+
+
+
+
+
+			<!-- ########## GRIDELEMENTS : GridTwoColumns ########## -->
+			<trans-unit id="gridelements.GridTwoColumns.title">
+				<source>[ GRID ] Grid-2-Columns</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridTwoColumns.description">
+				<source>Grid-Element with two columns</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridTwoColumns.Left">
+				<source>Left</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridTwoColumns.Right">
+				<source>Right</source>
+			</trans-unit>
+
+			<trans-unit id="gridelements.GridTwoColumns.flexforms.title">
+				<source>Split</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridTwoColumns.flexforms.label">
+				<source>Columns [ Grid 12 ]</source>
+			</trans-unit>
+
+
+
+
+
+
+
+			<!-- ########## GRIDELEMENTS : GridThreeColumns ########## -->
+			<trans-unit id="gridelements.GridThreeColumns.title">
+				<source>[ GRID ] Grid-3-Columns</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridThreeColumns.description">
+				<source>Grid-Element with three columns</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridThreeColumns.Left">
+				<source>Left</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridThreeColumns.Center">
+				<source>Center</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridThreeColumns.Right">
+				<source>Right</source>
+			</trans-unit>
+
+			<trans-unit id="gridelements.GridThreeColumns.flexforms.title">
+				<source>Split</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridThreeColumns.flexforms.label">
+				<source>Columns [ Grid 12 ]</source>
+			</trans-unit>
+
+
+
+
+
+
+
+			<!-- ########## GRIDELEMENTS : GridFourColumns ########## -->
+			<trans-unit id="gridelements.GridFourColumns.title">
+				<source>[ GRID ] Grid-4-Columns</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridFourColumns.description">
+				<source>Grid-Element with four columns (3-3-3-3)</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridFourColumns.One">
+				<source>One</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridFourColumns.Two">
+				<source>Two</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridFourColumns.Three">
+				<source>Three</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridFourColumns.Four">
+				<source>Four</source>
+			</trans-unit>
+
+			<trans-unit id="gridelements.GridFourColumns.flexforms.title">
+				<source>Split</source>
+			</trans-unit>
+			<trans-unit id="gridelements.GridFourColumns.flexforms.label">
+				<source>Columns</source>
+			</trans-unit>
+
+
+
+
+
+            <!-- ########## GRIDELEMENTS : GridContainerWrap ########## -->
+            <trans-unit id="gridelements.GridContainerWrap.title">
+                <source>[ GRID ] Outer Grid-Container</source>
+            </trans-unit>
+            <trans-unit id="gridelements.GridContainerWrap.description">
+                <source>Full width container with background color</source>
+            </trans-unit>
+            <trans-unit id="gridelements.GridContainerWrap.column">
+                <source>Content</source>
+            </trans-unit>
+
+            <trans-unit id="gridelements.GridContainerWrap.flexforms.title">
+                <source>Options</source>
+            </trans-unit>
+            <trans-unit id="gridelements.GridContainerWrap.flexforms.farbe">
+                <source>Background-Color</source>
+            </trans-unit>
+            <trans-unit id="gridelements.GridContainerWrap.flexforms.checkboxpaddingTop">
+                <source>No Padding Top</source>
+            </trans-unit>
+            <trans-unit id="gridelements.GridContainerWrap.flexforms.checkboxpaddingBottom">
+                <source>No Padding Bottom</source>
+            </trans-unit>
+            <trans-unit id="gridelements.GridContainerWrap.flexforms.checkboxalign">
+                <source>Align Center</source>
+            </trans-unit>
+
+
+
+
+
+
+            <!-- ########## CONSTANTS ########## -->
+            <trans-unit id="constants.siteName">
+				<source>Website Name</source>
+			</trans-unit>
+            <trans-unit id="constants.footerPid">
+				<source><![CDATA[Ordner für Info-Navigation in der Fußleiste]]></source>
+			</trans-unit>
+            <trans-unit id="constants.siteLanguages">
+				<source><![CDATA[Anzahl der Website-Sprachen, z.B. 0,1,2,3,...]]></source>
+			</trans-unit>
+
+
+
+
+
+
+            <!-- ########## ckEDITOR ########## -->
+            <trans-unit id="ckeditor.link_internal_titleText">
+				<source>Interner Link</source>
+			</trans-unit>
+            <trans-unit id="ckeditor.link_internal_blank_titleText">
+				<source>Interner Link im neuen Fenster</source>
+			</trans-unit>
+            <trans-unit id="ckeditor.link_external_titleText">
+				<source>Externer Link</source>
+			</trans-unit>
+            <trans-unit id="ckeditor.link_external_blank_titleText">
+				<source>Externer Link im neuen Fenster</source>
+			</trans-unit>
+
+            <trans-unit id="ckeditor.link_folder_titleText">
+				<source>Link zu einem Verzeichis</source>
+			</trans-unit>
+            <trans-unit id="ckeditor.link_download_titleText">
+				<source>Download-Link</source>
+			</trans-unit>
+            <trans-unit id="ckeditor.link_mail_titleText">
+				<source>Mail-Link</source>
+			</trans-unit>
+
+            <trans-unit id="ckeditor.link_primarybutton_titleText">
+				<source>Button black</source>
+			</trans-unit>
+            <trans-unit id="ckeditor.link_warningbutton_titleText">
+				<source>Button orange</source>
+			</trans-unit>
+            <trans-unit id="ckeditor.link_hollowbutton_titleText">
+				<source>Button clear</source>
+			</trans-unit>
+
+
+
+
+            <!-- ########## TCEFORM ########## -->
+            <trans-unit id="tceform.header.0">
+				<source>Headline h2</source>
+			</trans-unit>
+            <trans-unit id="tceform.header.1">
+				<source>Headline h1</source>
+			</trans-unit>
+            <trans-unit id="tceform.header.2">
+				<source>Headline 2</source>
+			</trans-unit>
+            <trans-unit id="tceform.header.3">
+				<source>Headline h3 blue</source>
+			</trans-unit>
+            <trans-unit id="tceform.header.4">
+				<source>Headline h3 white</source>
+			</trans-unit>
+            <trans-unit id="tceform.header.5">
+				<source>Headline for Anchors</source>
+			</trans-unit>
+            <trans-unit id="tceform.header.hidden">
+				<source>Hide</source>
+			</trans-unit>
+            <trans-unit id="tceform.header.6">
+				<source>Headline h6</source>
+			</trans-unit>
+
+
+
+            <trans-unit id="tceform.layout.0">
+				<source>Standard</source>
+			</trans-unit>
+            <trans-unit id="tceform.layout.1">
+				<source>Hide Headline in Anchor Menu</source>
+			</trans-unit>
+            <trans-unit id="tceform.layout.2">
+				<source>Layout 2</source>
+			</trans-unit>
+            <trans-unit id="tceform.layout.3">
+				<source>Layout 3</source>
+			</trans-unit>
+
+
+
+            <trans-unit id="tceform.frame_class.0">
+				<source>Standard</source>
+			</trans-unit>
+            <trans-unit id="tceform.frame_class.1">
+				<source>Rahmen 2</source>
+			</trans-unit>
+
+            <trans-unit id="tceform.frame_class.own1">
+				<source>Callout</source>
+			</trans-unit>
+
+
+
+            <!-- ########## EXT:tx_news ########## -->
+			<trans-unit id="tx_news.template.100">
+				<source>hellotypo3 Experiences List View</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
